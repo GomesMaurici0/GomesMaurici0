@@ -36,10 +36,14 @@
 
 ##
 
+<br>
 <div>
   <a href="https://www.linkedin.com/in/mauricio-gomes-479221223/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"></a>
   <a href = "https://www.instagram.com/maugms/"> <img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
   <a hred="https://discord.com/users/387400891038302213"><img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GomesMaurici0&repo=github-readme-stats)](https://github.com/GomesMaurici0/TaskTrack)
+
+##
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GomesMaurici0&repo=TaskTrack&theme=tokyonight)](https://github.com/GomesMaurici0/TaskTrack)
