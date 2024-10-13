@@ -25,8 +25,8 @@
 
 ### 📫 **Entre em contato:**
 
-- [LinkedIn](https://www.linkedin.com/in/mauricio)  
-- [Email](mailto:seuemail@gmail.com)
+- [LinkedIn]([https://www.linkedin.com/in/mauricio](https://www.linkedin.com/in/mauricio-gomes-479221223/))  
+- [Email](ghomes.mauricio@gmail.com)
 
 ---
 
