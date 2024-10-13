@@ -26,16 +26,25 @@
  <img height= "180em" src = "https://github-readme-stats.vercel.app/api?username=GomesMaurici0&show_icons=true&theme=tokyonight">
  <img height= "165em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=GomesMaurici0&hide_progress=true&theme=tokyonight">
 </div>
+<br>
+
     
-<div style=display: inline_block><br>
+- 📖 **Linguagens em Estudo**
+<div style=display: inline_block>
      <img align = "center" alt="Mau-Java" height="50" width = "40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
      <img align = "center" alt="Mau-Spring" height="50" width = "40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"/>
      <img align = "center" alt="Mau-PostgreSQL" height="50" width = "40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
      <img align = "center" alt="Mau-Postman" height="50" width = "40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg" />    
+    <img align = "center" alt="Mau-HTML5" height="50" width = 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+    <img align = "center" alt="Mau-CSS" height="50" width = 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
 </div>
+
+
+
 
 ##
 
+- 🌍 **Redes Sociais**
 <br>
 <div>
   <a href="https://www.linkedin.com/in/mauricio-gomes-479221223/" > 
