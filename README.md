@@ -19,7 +19,6 @@
 - **Linguagens**: Java, SQL
 - **Frameworks**: Spring Boot
 - **Banco de Dados**: PostgreSQL, MySQL
-- **Cloud**: AWS (iniciante)
 - **Ferramentas**: Git, Postman
 
 ---
