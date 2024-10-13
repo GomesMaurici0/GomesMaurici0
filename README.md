@@ -24,7 +24,7 @@
 <div>
   <a href= "[https://](https://github.com/GomesMaurici0)">
  <img height= "180em" src = "https://github-readme-stats.vercel.app/api?username=GomesMaurici0&show_icons=true&theme=tokyonight">
- <img height= "180em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=GomesMaurici0&hide_progress=true&theme=tokyonight">
+ <img height= "170em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=GomesMaurici0&hide_progress=true&theme=tokyonight">
 </div>
     
 <div style=display: inline_block><br>
