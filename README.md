@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000CD&size=35&center=true&vCenter=true&width=1000&lines=+Oi!+eu+sou+o+Mauricio,+seja+Bem+vindo+ao+meu+Github+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=+Oi!+eu+sou+o+Mauricio,+seja+Bem+vindo+ao+meu+Github+)](https://git.io/typing-svg)
 
 ### 👨‍💻 **Desenvolvedor em formação | Apaixonado por tecnologia**
 
