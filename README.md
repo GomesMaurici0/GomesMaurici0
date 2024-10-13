@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=+Olá!+sou+o+Mauricio,+seja+Bem+vindo+ao+meu+Github+)](https://git.io/typing-svg)
-
 ### 👨‍💻 **Desenvolvedor em formação | Apaixonado por tecnologia**
 
 ---
@@ -22,12 +21,25 @@
 - **Ferramentas**: Git, Postman
 
 ---
+<div>
+  <a href= "[https://](https://github.com/GomesMaurici0)">
+ <img height= "180em" src = "https://github-readme-stats.vercel.app/api?username=GomesMaurici0&show_icons=true&theme=tokyonight">
+ <img height= "180em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=GomesMaurici0&hide_progress=true&theme=tokyonight">
+</div>
+    
+<div style=display: inline_block><br>
+     <img align = "center" alt="Mau-Java" height="50" width = "40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+     <img align = "center" alt="Mau-Spring" height="50" width = "40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"/>
+     <img align = "center" alt="Mau-PostgreSQL" height="50" width = "40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
+     <img align = "center" alt="Mau-Postman" height="50" width = "40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg" />    
+</div>
 
-### 📫 **Entre em contato:**
+##
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mauricio-gomes-479221223/) [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seuusuario)
+<div>
+  <a href="https://www.linkedin.com/in/mauricio-gomes-479221223/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"></a>
+  <a href = "https://www.instagram.com/maugms/"> <img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
+  <a hred="https://discord.com/users/387400891038302213"><img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+</div>
 
-
----
-
-💡 **"A jornada é o destino."** - Continuamente aprendendo e evoluindo
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GomesMaurici0&repo=github-readme-stats)](https://github.com/GomesMaurici0/TaskTrack)
